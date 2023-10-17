@@ -1,0 +1,28 @@
+USE master;
+
+CREATE DATABASE DotNetDemoDB;
+GO
+
+USE DotNetDemoDB;
+GO
+
+CREATE TABLE Groups
+(
+	[Id] INT IDENTITY(1,1) NOT NULL,
+	[Name] VARCHAR(150) NOT NULL,
+	CONSTRAINT [PK_Groups] PRIMARY KEY ([Id])
+);
+GO
+
+CREATE TABLE Users
+(
+	[Id] INT IDENTITY(1,1) NOT NULL,
+	[FirstName] VARCHAR(150) NOT NULL,
+	[LastName] VARCHAR(150) NOT NULL,
+	[EmailAddress] VARCHAR(150) NOT NULL,
+	[Address] VARCHAR(500),
+	[GroupId] INT,
+	CONSTRAINT PK_Users PRIMARY KEY (Id),
+	CONSTRAINT FK_Users_Groups FOREIGN KEY ([GroupId]) REFERENCES Groups ([Id])
+);
+GO

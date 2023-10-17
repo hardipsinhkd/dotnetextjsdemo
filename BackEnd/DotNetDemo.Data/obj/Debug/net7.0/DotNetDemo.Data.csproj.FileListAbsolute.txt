@@ -1,0 +1,12 @@
+D:\DemoTest\BackEnd\DotNetDemo.Data\bin\Debug\net7.0\DotNetDemo.Data.deps.json
+D:\DemoTest\BackEnd\DotNetDemo.Data\bin\Debug\net7.0\DotNetDemo.Data.dll
+D:\DemoTest\BackEnd\DotNetDemo.Data\bin\Debug\net7.0\DotNetDemo.Data.pdb
+D:\DemoTest\BackEnd\DotNetDemo.Data\obj\Debug\net7.0\DotNetDemo.Data.csproj.AssemblyReference.cache
+D:\DemoTest\BackEnd\DotNetDemo.Data\obj\Debug\net7.0\DotNetDemo.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\DemoTest\BackEnd\DotNetDemo.Data\obj\Debug\net7.0\DotNetDemo.Data.AssemblyInfoInputs.cache
+D:\DemoTest\BackEnd\DotNetDemo.Data\obj\Debug\net7.0\DotNetDemo.Data.AssemblyInfo.cs
+D:\DemoTest\BackEnd\DotNetDemo.Data\obj\Debug\net7.0\DotNetDemo.Data.csproj.CoreCompileInputs.cache
+D:\DemoTest\BackEnd\DotNetDemo.Data\obj\Debug\net7.0\DotNetDemo.Data.dll
+D:\DemoTest\BackEnd\DotNetDemo.Data\obj\Debug\net7.0\refint\DotNetDemo.Data.dll
+D:\DemoTest\BackEnd\DotNetDemo.Data\obj\Debug\net7.0\DotNetDemo.Data.pdb
+D:\DemoTest\BackEnd\DotNetDemo.Data\obj\Debug\net7.0\ref\DotNetDemo.Data.dll
